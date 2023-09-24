@@ -672,3 +672,8 @@ iframe{
 ul.faq-list > li > div.collapse > div.img-cont{
     text-align: center;
 }
+
+.link-icon, .link-icon a{
+    width: 100%!important;
+    display: block;
+}
